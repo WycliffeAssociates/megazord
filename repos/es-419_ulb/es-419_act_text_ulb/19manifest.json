@@ -1,0 +1,56 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "act",
+    "name": "Acts"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Yonahira Kercado"
+  ],
+  "finished_chunks": [
+    "19-01",
+    "19-03",
+    "19-05",
+    "19-08",
+    "19-11",
+    "19-13",
+    "19-15",
+    "19-18",
+    "19-21",
+    "19-23",
+    "19-26",
+    "19-28",
+    "19-30",
+    "19-33",
+    "19-35",
+    "19-38"
+  ]
+}

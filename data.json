@@ -1,0 +1,5380 @@
+[
+  {
+    "code": "am", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 2, 
+            "category": "bible-ot", 
+            "code": "exo", 
+            "name": "Exodus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/02-EXO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 16, 
+            "category": "bible-ot", 
+            "code": "neh", 
+            "name": "Nehemiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/16-NEH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 24, 
+            "category": "bible-ot", 
+            "code": "jer", 
+            "name": "Jeremiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/24-JER.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/am_ulb/am_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "es-419", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 1, 
+            "category": "bible-ot", 
+            "code": "gen", 
+            "name": "Genesis", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/01-GEN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 2, 
+            "category": "bible-ot", 
+            "code": "exo", 
+            "name": "Exodus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/02-EXO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 6, 
+            "category": "bible-ot", 
+            "code": "jos", 
+            "name": "Joshua", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/06-JOS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 7, 
+            "category": "bible-ot", 
+            "code": "jdg", 
+            "name": "Judges", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/07-JDG.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 8, 
+            "category": "bible-ot", 
+            "code": "rut", 
+            "name": "Ruth", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/08-RUT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 9, 
+            "category": "bible-ot", 
+            "code": "1sa", 
+            "name": "1 Samuel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/09-1SA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 17, 
+            "category": "bible-ot", 
+            "code": "est", 
+            "name": "Esther", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/17-EST.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/es-419_ulb/es-419_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "fr", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/fr_ulb/fr_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "ha", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ha_ulb/ha_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "ne", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "udb", 
+        "name": "Unlocked Dynamic Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ne_udb/ne_udb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "pt-br", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 1, 
+            "category": "bible-ot", 
+            "code": "gen", 
+            "name": "Genesis", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/01-GEN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 2, 
+            "category": "bible-ot", 
+            "code": "exo", 
+            "name": "Exodus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/02-EXO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 3, 
+            "category": "bible-ot", 
+            "code": "lev", 
+            "name": "Leviticus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/03-LEV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 4, 
+            "category": "bible-ot", 
+            "code": "num", 
+            "name": "Numbers", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/04-NUM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 5, 
+            "category": "bible-ot", 
+            "code": "deu", 
+            "name": "Deuteronomy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/05-DEU.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 6, 
+            "category": "bible-ot", 
+            "code": "jos", 
+            "name": "Joshua", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/06-JOS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 7, 
+            "category": "bible-ot", 
+            "code": "jdg", 
+            "name": "Judges", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/07-JDG.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 8, 
+            "category": "bible-ot", 
+            "code": "rut", 
+            "name": "Ruth", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/08-RUT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 9, 
+            "category": "bible-ot", 
+            "code": "1sa", 
+            "name": "1 Samuel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/09-1SA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 10, 
+            "category": "bible-ot", 
+            "code": "2sa", 
+            "name": "2 Samuel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/10-2SA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 11, 
+            "category": "bible-ot", 
+            "code": "1ki", 
+            "name": "1 Kings", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/11-1KI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 12, 
+            "category": "bible-ot", 
+            "code": "2ki", 
+            "name": "2 Kings", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/12-2KI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 13, 
+            "category": "bible-ot", 
+            "code": "1ch", 
+            "name": "1 Chronicles", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/13-1CH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 14, 
+            "category": "bible-ot", 
+            "code": "2ch", 
+            "name": "2 Chronicles", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/14-2CH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 15, 
+            "category": "bible-ot", 
+            "code": "ezr", 
+            "name": "Ezra", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/15-EZR.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 16, 
+            "category": "bible-ot", 
+            "code": "neh", 
+            "name": "Nehemiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/16-NEH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 17, 
+            "category": "bible-ot", 
+            "code": "est", 
+            "name": "Esther", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/17-EST.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 18, 
+            "category": "bible-ot", 
+            "code": "job", 
+            "name": "Job", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/18-JOB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 19, 
+            "category": "bible-ot", 
+            "code": "psa", 
+            "name": "Psalms", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/19-PSA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 20, 
+            "category": "bible-ot", 
+            "code": "pro", 
+            "name": "Proverbs", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/20-PRO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 21, 
+            "category": "bible-ot", 
+            "code": "ecc", 
+            "name": "Ecclesiastes", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/21-ECC.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 22, 
+            "category": "bible-ot", 
+            "code": "sng", 
+            "name": "Song of Solomon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/22-SNG.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 23, 
+            "category": "bible-ot", 
+            "code": "isa", 
+            "name": "Isaiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/23-ISA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 24, 
+            "category": "bible-ot", 
+            "code": "jer", 
+            "name": "Jeremiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/24-JER.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 25, 
+            "category": "bible-ot", 
+            "code": "lam", 
+            "name": "Lamentations", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/25-LAM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 26, 
+            "category": "bible-ot", 
+            "code": "ezk", 
+            "name": "Ezekiel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/26-EZK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 27, 
+            "category": "bible-ot", 
+            "code": "dan", 
+            "name": "Daniel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/27-DAN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 28, 
+            "category": "bible-ot", 
+            "code": "hos", 
+            "name": "Hosea", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/28-HOS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 29, 
+            "category": "bible-ot", 
+            "code": "jol", 
+            "name": "Joel", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/29-JOL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 30, 
+            "category": "bible-ot", 
+            "code": "amo", 
+            "name": "Amos", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/30-AMO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 31, 
+            "category": "bible-ot", 
+            "code": "oba", 
+            "name": "Obadiah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/31-OBA.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 32, 
+            "category": "bible-ot", 
+            "code": "jon", 
+            "name": "Jonah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/32-JON.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 33, 
+            "category": "bible-ot", 
+            "code": "mic", 
+            "name": "Micah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/33-MIC.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 34, 
+            "category": "bible-ot", 
+            "code": "nam", 
+            "name": "Nahum", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/34-NAM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 35, 
+            "category": "bible-ot", 
+            "code": "hab", 
+            "name": "Habakkuk", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/35-HAB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 36, 
+            "category": "bible-ot", 
+            "code": "zep", 
+            "name": "Zephaniah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/36-ZEP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 37, 
+            "category": "bible-ot", 
+            "code": "hag", 
+            "name": "Haggai", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/37-HAG.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 38, 
+            "category": "bible-ot", 
+            "code": "zec", 
+            "name": "Zechariah", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/38-ZEC.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 39, 
+            "category": "bible-ot", 
+            "code": "mal", 
+            "name": "Malachi", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/39-MAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 40, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/40-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/41-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/42-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/43-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/44-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/45-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/46-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/47-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/48-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/49-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/50-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/51-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/52-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/53-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/54-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/55-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/56-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/57-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/58-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/59-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/60-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/61-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/62-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/63-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/64-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/65-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/66-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/pt-br_ulb/pt-br_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "ru", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ru_ulb/ru_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "sw", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/sw_ulb/sw_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "ur-Deva", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur-Deva_ulb/ur-Deva_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "ur", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/ur_ulb/ur_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "vi", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 1, 
+            "category": "bible-ot", 
+            "code": "gen", 
+            "name": "Genesis", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/01-GEN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 13, 
+            "category": "bible-ot", 
+            "code": "1ch", 
+            "name": "1 Chronicles", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/13-1CH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 14, 
+            "category": "bible-ot", 
+            "code": "2ch", 
+            "name": "2 Chronicles", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/14-2CH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 41, 
+            "category": "bible-nt", 
+            "code": "mat", 
+            "name": "Matthew", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/41-MAT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 58, 
+            "category": "bible-nt", 
+            "code": "phm", 
+            "name": "Philemon", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/58-PHM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/vi_ulb/vi_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }, 
+  {
+    "code": "zh", 
+    "contents": [
+      {
+        "subcontents": [
+          {
+            "sort": 42, 
+            "category": "bible-nt", 
+            "code": "mrk", 
+            "name": "Mark", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/42-MRK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 43, 
+            "category": "bible-nt", 
+            "code": "luk", 
+            "name": "Luke", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/43-LUK.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 44, 
+            "category": "bible-nt", 
+            "code": "jhn", 
+            "name": "John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/44-JHN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 45, 
+            "category": "bible-nt", 
+            "code": "act", 
+            "name": "Acts", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/45-ACT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 46, 
+            "category": "bible-nt", 
+            "code": "rom", 
+            "name": "Romans", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/46-ROM.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 47, 
+            "category": "bible-nt", 
+            "code": "1co", 
+            "name": "1 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/47-1CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 48, 
+            "category": "bible-nt", 
+            "code": "2co", 
+            "name": "2 Corinthians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/48-2CO.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 49, 
+            "category": "bible-nt", 
+            "code": "gal", 
+            "name": "Galatians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/49-GAL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 50, 
+            "category": "bible-nt", 
+            "code": "eph", 
+            "name": "Ephesians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/50-EPH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 51, 
+            "category": "bible-nt", 
+            "code": "php", 
+            "name": "Philippians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/51-PHP.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 52, 
+            "category": "bible-nt", 
+            "code": "col", 
+            "name": "Colossians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/52-COL.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 53, 
+            "category": "bible-nt", 
+            "code": "1th", 
+            "name": "1 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/53-1TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 54, 
+            "category": "bible-nt", 
+            "code": "2th", 
+            "name": "2 Thessalonians", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/54-2TH.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 55, 
+            "category": "bible-nt", 
+            "code": "1ti", 
+            "name": "1 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/55-1TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 56, 
+            "category": "bible-nt", 
+            "code": "2ti", 
+            "name": "2 Timothy", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/56-2TI.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 57, 
+            "category": "bible-nt", 
+            "code": "tit", 
+            "name": "Titus", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/57-TIT.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 59, 
+            "category": "bible-nt", 
+            "code": "heb", 
+            "name": "Hebrews", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/59-HEB.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 60, 
+            "category": "bible-nt", 
+            "code": "jas", 
+            "name": "James", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/60-JAS.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 61, 
+            "category": "bible-nt", 
+            "code": "1pe", 
+            "name": "1 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/61-1PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 62, 
+            "category": "bible-nt", 
+            "code": "2pe", 
+            "name": "2 Peter", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/62-2PE.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 63, 
+            "category": "bible-nt", 
+            "code": "1jn", 
+            "name": "1 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/63-1JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 64, 
+            "category": "bible-nt", 
+            "code": "2jn", 
+            "name": "2 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/64-2JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 65, 
+            "category": "bible-nt", 
+            "code": "3jn", 
+            "name": "3 John", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/65-3JN.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 66, 
+            "category": "bible-nt", 
+            "code": "jud", 
+            "name": "Jude", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/66-JUD.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }, 
+          {
+            "sort": 67, 
+            "category": "bible-nt ", 
+            "code": "rev", 
+            "name": "Revelation", 
+            "links": [
+              {
+                "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/67-REV.usfm", 
+                "zipContent": "", 
+                "quality": "", 
+                "format": "usfm"
+              }
+            ]
+          }
+        ], 
+        "code": "ulb", 
+        "name": "Unlocked Literal Bible", 
+        "links": [
+          {
+            "url": "https://s3.us-east-2.amazonaws.com/biel/translations/zh_ulb/zh_ulb.zip", 
+            "zipContent": "usfm", 
+            "quality": "", 
+            "format": "zip"
+          }
+        ], 
+        "subject": "Bible"
+      }
+    ]
+  }
+]

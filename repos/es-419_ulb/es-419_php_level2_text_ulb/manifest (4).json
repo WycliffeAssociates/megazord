@@ -1,0 +1,52 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "php",
+    "name": "Philippians"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Guillermo Ortiz"
+  ],
+  "finished_chunks": [
+    "00-title",
+    "01-01",
+    "01-03",
+    "01-07",
+    "01-09",
+    "01-12",
+    "01-15",
+    "01-18",
+    "01-20",
+    "01-22",
+    "01-25",
+    "01-28"
+  ]
+}

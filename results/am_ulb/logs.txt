@@ -1,0 +1,95 @@
+Converting: repos/am_ulb/am_1co_text_ulb
+16 chapters converted
+
+Converting: repos/am_ulb/am_1jn_text_ulb
+5 chapters converted
+
+Converting: repos/am_ulb/am_1pe_text_ulb
+5 chapters converted
+
+Converting: repos/am_ulb/am_1th_text_ulb
+5 chapters converted
+
+Converting: repos/am_ulb/am_1ti_text_ulb
+6 chapters converted
+
+Converting: repos/am_ulb/am_2co_text_ulb
+13 chapters converted
+
+Converting: repos/am_ulb/am_2jn_text_ulb
+1 chapters converted
+
+Converting: repos/am_ulb/am_2pe_text_ulb
+3 chapters converted
+
+Converting: repos/am_ulb/am_2th_text_ulb
+3 chapters converted
+
+Converting: repos/am_ulb/am_2ti_text_ulb
+4 chapters converted
+
+Converting: repos/am_ulb/am_3jn_text_ulb
+1 chapters converted
+
+Converting: repos/am_ulb/am_act_text_ulb
+28 chapters converted
+
+Converting: repos/am_ulb/am_col_text_ulb
+4 chapters converted
+
+Converting: repos/am_ulb/am_eph_text_ulb
+--- Info: removed duplicate verse marker: \v 1
+--- Info: removed duplicate verse marker: \v 18
+6 chapters converted
+
+Converting: repos/am_ulb/am_exo_text_ulb
+--- ALERT: missing book title for repos/am_ulb/am_exo_text_ulb
+--- Info: removed duplicate verse marker: \v 1
+--- Info: removed duplicate verse marker: \v 29
+40 chapters converted
+
+Converting: repos/am_ulb/am_gal_text_ulb
+6 chapters converted
+
+Converting: repos/am_ulb/am_heb_text_ulb
+13 chapters converted
+
+Converting: repos/am_ulb/am_jas_text_ulb
+5 chapters converted
+
+Converting: repos/am_ulb/am_jer_text_ulb
+52 chapters converted
+
+Converting: repos/am_ulb/am_jud_text_ulb
+1 chapters converted
+
+Converting: repos/am_ulb/am_mrk_text_ulb
+16 chapters converted
+
+Converting: repos/am_ulb/am_neh_text_ulb
+--- ALERT: missing book title for repos/am_ulb/am_neh_text_ulb
+13 chapters converted
+
+Converting: repos/am_ulb/am_phm_text_ulb
+1 chapters converted
+
+Converting: repos/am_ulb/am_php_text_ulb
+4 chapters converted
+
+Converting: repos/am_ulb/am_rev_text_ulb
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/02/01.txt
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/02/06.txt
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/02/10.txt
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/02/18.txt
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/02/26.txt
+--- ALERT: conflict parse error in repos/am_ulb/am_rev_text_ulb/03/12.txt
+22 chapters converted
+
+Converting: repos/am_ulb/am_rom_text_ulb
+16 chapters converted
+
+Converting: repos/am_ulb/am_tit_text_ulb
+3 chapters converted
+
+
+Done.

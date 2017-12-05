@@ -1,0 +1,51 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "heb",
+    "name": "Hebrews"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Luisa Arboleda"
+  ],
+  "finished_chunks": [
+    "13-01",
+    "13-03",
+    "13-05",
+    "13-07",
+    "13-09",
+    "13-12",
+    "13-15",
+    "13-18",
+    "13-20",
+    "13-22",
+    "13-24"
+  ]
+}

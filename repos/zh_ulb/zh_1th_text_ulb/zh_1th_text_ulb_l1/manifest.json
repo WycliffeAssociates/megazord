@@ -1,0 +1,73 @@
+{
+	"package_version": 6,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "55"
+	},
+	"target_language": {
+		"id": "zh",
+		"name": "中文 (Zhōngwén), 汉语, 漢語",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "1th",
+		"name": "1 Thessalonians"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "ulb",
+			"checking_level": 3,
+			"date_modified": 20160614,
+			"version": "5"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"ldjenkins22"
+	],
+	"finished_chunks": [
+		"00-title",
+		"01-01",
+		"01-02",
+		"01-04",
+		"01-06",
+		"01-08",
+		"02-01",
+		"02-03",
+		"02-05",
+		"02-07",
+		"02-10",
+		"02-13",
+		"02-14",
+		"02-17",
+		"03-01",
+		"03-04",
+		"03-06",
+		"03-08",
+		"03-11",
+		"04-01",
+		"04-03",
+		"04-07",
+		"04-09",
+		"04-13",
+		"04-16",
+		"05-01",
+		"05-04",
+		"05-08",
+		"05-12",
+		"05-15",
+		"05-19",
+		"05-23",
+		"05-25"
+	]
+}

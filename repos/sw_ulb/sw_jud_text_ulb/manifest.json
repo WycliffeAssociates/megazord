@@ -1,0 +1,56 @@
+{
+	"package_version": 7,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "132"
+	},
+	"target_language": {
+		"id": "sw",
+		"name": "Kiswahili",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "jud",
+		"name": "Jude"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "ulb",
+			"checking_level": "3",
+			"date_modified": 20170329,
+			"version": "9"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"ERASMUS MALELO",
+		"Cloud Roman",
+		"REV. CHARLES MABISA",
+		"Danjuma_Alfred_H"
+	],
+	"finished_chunks": [
+		"front-title",
+		"01-title",
+		"01-01",
+		"01-03",
+		"01-05",
+		"01-07",
+		"01-09",
+		"01-12",
+		"01-14",
+		"01-17",
+		"01-20",
+		"01-22",
+		"01-24"
+	]
+}

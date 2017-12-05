@@ -1,0 +1,77 @@
+{
+	"package_version": 7,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "110"
+	},
+	"target_language": {
+		"id": "ru",
+		"name": "Русский",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "2ti",
+		"name": "2 Timothy"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "ru",
+			"resource_id": "rsb",
+			"checking_level": "3",
+			"date_modified": 20160620,
+			"version": "1"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"Mark Young",
+		"Yaroslav Ten",
+		"mast18"
+	],
+	"finished_chunks": [
+		"front-title",
+		"01-title",
+		"01-01",
+		"01-03",
+		"01-06",
+		"01-08",
+		"01-12",
+		"01-15",
+		"02-title",
+		"02-01",
+		"02-03",
+		"02-06",
+		"02-08",
+		"02-11",
+		"02-14",
+		"02-16",
+		"02-19",
+		"02-22",
+		"02-24",
+		"03-title",
+		"03-01",
+		"03-05",
+		"03-08",
+		"03-10",
+		"03-14",
+		"03-16",
+		"04-title",
+		"04-01",
+		"04-03",
+		"04-06",
+		"04-09",
+		"04-11",
+		"04-14",
+		"04-17",
+		"04-19"
+	]
+}

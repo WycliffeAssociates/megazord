@@ -1,0 +1,119 @@
+Converting: repos/vi_ulb/vi_1ch_text_ulb
+29 chapters converted
+
+Converting: repos/vi_ulb/vi_1co_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_1co_text_ulb
+16 chapters converted
+
+Converting: repos/vi_ulb/vi_1jn_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_1jn_text_ulb
+5 chapters converted
+
+Converting: repos/vi_ulb/vi_1pe_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_1pe_text_ulb
+5 chapters converted
+
+Converting: repos/vi_ulb/vi_1th_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_1th_text_ulb
+5 chapters converted
+
+Converting: repos/vi_ulb/vi_1ti_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_1ti_text_ulb
+6 chapters converted
+
+Converting: repos/vi_ulb/vi_2ch_text_ulb
+36 chapters converted
+
+Converting: repos/vi_ulb/vi_2co_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_2co_text_ulb
+13 chapters converted
+
+Converting: repos/vi_ulb/vi_2jn_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_2jn_text_ulb
+1 chapters converted
+
+Converting: repos/vi_ulb/vi_2pe_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_2pe_text_ulb
+3 chapters converted
+
+Converting: repos/vi_ulb/vi_2th_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_2th_text_ulb
+3 chapters converted
+
+Converting: repos/vi_ulb/vi_2ti_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_2ti_text_ulb
+4 chapters converted
+
+Converting: repos/vi_ulb/vi_3jn_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_3jn_text_ulb
+1 chapters converted
+
+Converting: repos/vi_ulb/vi_act_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_act_text_ulb
+28 chapters converted
+
+Converting: repos/vi_ulb/vi_col_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_col_text_ulb
+4 chapters converted
+
+Converting: repos/vi_ulb/vi_eph_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_eph_text_ulb
+6 chapters converted
+
+Converting: repos/vi_ulb/vi_gal_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_gal_text_ulb
+6 chapters converted
+
+Converting: repos/vi_ulb/vi_gen_text_ulb
+50 chapters converted
+
+Converting: repos/vi_ulb/vi_heb_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_heb_text_ulb
+13 chapters converted
+
+Converting: repos/vi_ulb/vi_jas_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_jas_text_ulb
+5 chapters converted
+
+Converting: repos/vi_ulb/vi_jhn_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_jhn_text_ulb
+21 chapters converted
+
+Converting: repos/vi_ulb/vi_jud_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_jud_text_ulb
+1 chapters converted
+
+Converting: repos/vi_ulb/vi_luk_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_luk_text_ulb
+24 chapters converted
+
+Converting: repos/vi_ulb/vi_mat_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_mat_text_ulb
+28 chapters converted
+
+Converting: repos/vi_ulb/vi_mrk_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_mrk_text_ulb
+16 chapters converted
+
+Converting: repos/vi_ulb/vi_phm_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_phm_text_ulb
+1 chapters converted
+
+Converting: repos/vi_ulb/vi_php_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_php_text_ulb
+4 chapters converted
+
+Converting: repos/vi_ulb/vi_rev_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_rev_text_ulb
+22 chapters converted
+
+Converting: repos/vi_ulb/vi_rom_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_rom_text_ulb
+16 chapters converted
+
+Converting: repos/vi_ulb/vi_tit_text_ulb
+--- ALERT: missing book title for repos/vi_ulb/vi_tit_text_ulb
+3 chapters converted
+
+
+Done.

@@ -1,0 +1,450 @@
+- language:
+    code: am
+    name: Amharic
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/burje_duro/am_2jn_text_ulb
+    - https://git.door43.org/burje_duro/am_3jn_text_ulb
+    - https://git.door43.org/burje_duro/am_phm_text_ulb
+    - https://git.door43.org/burje_duro/am_jud_text_ulb
+    - https://git.door43.org/burje_duro/am_2th_text_ulb
+    - https://git.door43.org/burje_duro/am_tit_text_ulb
+    - https://git.door43.org/burje_duro/am_2pe_text_ulb
+    - https://git.door43.org/getachew_yohannes/am_tit_text_ulb
+    - https://git.door43.org/burje_duro/am_2ti_text_ulb
+    - https://git.door43.org/burje_duro/am_1th_text_ulb
+    - https://git.door43.org/burje_duro/am_col_text_ulb
+    - https://git.door43.org/burje_duro/am_php_text_ulb
+    - https://git.door43.org/burje_duro/am_1jn_text_ulb
+    - https://git.door43.org/burje_duro/am_jas_text_ulb
+    - https://git.door43.org/burje_duro/am_1pe_text_ulb
+    - https://git.door43.org/burje_duro/am_1ti_text_ulb
+    - https://git.door43.org/burje_duro/am_eph_text_ulb
+    - https://git.door43.org/burje_duro/am_gal_text_ulb
+    - https://git.door43.org/burje_duro/am_jer_text_ulb
+    - https://git.door43.org/burje_duro/am_2co_text_ulb
+    - https://git.door43.org/getachew_yohannes/am_heb_text_ulb
+    - https://git.door43.org/burje_duro/am_neh_text_ulb
+    - https://git.door43.org/burje_duro/am_1co_text_ulb
+    - https://git.door43.org/burje_duro/am_rev_text_ulb
+    - https://git.door43.org/getachew_yohannes/am_rom_text_ulb
+    - https://git.door43.org/burje_duro/am_mrk_text_ulb
+    - https://git.door43.org/getachew_yohannes/am_act_text_ulb
+    - https://git.door43.org/burje_duro/am_exo_text_ulb
+
+- language:
+    code: pt-br
+    name: Brazilian Portuguese
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/tinocobrazil/pt-br_1ch_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_1ki_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_1pe_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_1sa_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_2ch_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_2ki_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_2pe_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_2sa_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_act_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_amo_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_col_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_dan_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_deu_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_ecc_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_est_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_exo_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_ezk_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_ezr_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_gen_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_hab_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_hag_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_heb_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_hos_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_isa_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_jdg_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_jer_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_job_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_jol_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_jon_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_jos_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_lam_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_lev_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_luk_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_mal_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_mic_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_nam_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_neh_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_num_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_oba_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_phm_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_pro_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_psa_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_rev_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_rut_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_sng_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_tit_text_ulb_l2
+    - https://git.door43.org/tinocobrazil/pt-br_zec_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_zep_text_ulb_l1
+    - https://git.door43.org/tinocobrazil/pt-br_1co_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_1jn_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_1th_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_1ti_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_2co_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_2jn_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_2th_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_2ti_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_3jn_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_eph_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_gal_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_jas_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_jhn_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_jud_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_mat_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_php_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_rom_text_ulb_l3
+    - https://git.door43.org/tinocobrazil/pt-br_mrk_text_ulb_l2
+
+- language:
+    code: fr
+    name: French
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/parfait-ayanou/fr_1co_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_1jn_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_1pe_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_1th_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_1ti_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_2co_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_2jn_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_2pe_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_2th_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_2ti_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_3jn_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_act_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_col_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_eph_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_gal_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_heb_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_jas_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_jhn_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_jud_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_luk_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_mat_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_mrk_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_phm_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_php_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_rev_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_rom_text_ulb
+    - https://git.door43.org/parfait-ayanou/fr_tit_text_ulb
+
+- language:
+    code: ha
+    name: Hausa
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/danjuma_alfred_h/ha_1co_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_1jn_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_1pe_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_1th_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_1ti_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_2co_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_2jn_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_2pe_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_2th_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_2ti_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_3jn_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_act_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_col_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_eph_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_gal_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_heb_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_jas_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_jhn_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_jud_text_ulb
+
+
+
+    - https://git.door43.org/danjuma_alfred_h/ha_luk_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_mat_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_mrk_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_phm_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_php_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_rev_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_rom_text_ulb
+    - https://git.door43.org/danjuma_alfred_h/ha_tit_text_ulb
+
+- language:
+    code: ilo
+    name: Ilocano
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/reymark/ilo_phm_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_tit_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_2ti_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_1th_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_1jn_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_jas_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_1ti_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_rev_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_mark_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_jhn_text_ulb_l3
+    - https://git.door43.org/reymark/ilo_luk_text_ulb_l3
+    - https://git.door43.org/phillip-hopper/bible_ilo_luk_text_ulb_l3
+
+- language:
+    code: es-419
+    name: Latin American Spanish
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/talicea/es-419_2jn_text_ulb
+    - https://git.door43.org/wendyc/es-419_3jn_level2wc_text_ulb
+    - https://git.door43.org/talicea/es-419_phm_text_ulb
+    - https://git.door43.org/wendyc/es-419_jud_level2wc_text_ulb
+    - https://git.door43.org/wendyc/es-419_2th_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_2pe_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_tit_level2wc_text_ulb
+    - https://git.door43.org/talicea/es-419_2ti_text_ulb
+    - https://git.door43.org/wendyc/es-419_1th_level2__text_ulb
+    - https://git.door43.org/wendyc/es-419_col_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_php_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_rut_text_ulb
+    - https://git.door43.org/wendyc/es-419_1jn_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_jas_level2wc_text_ulb
+    - https://git.door43.org/rafael/es-419_1pe_level2_text_ulb
+    - https://git.door43.org/talicea/es-419_1ti_text_ulb
+    - https://git.door43.org/wendyc/es-419_gal_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_eph_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_est_text_ulb
+    - https://git.door43.org/wendyc/es-419_2co_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_heb_level2_text_ulb
+    - https://git.door43.org/luismatias/es-419_1co_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_rev_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_rom_level2_text_ulb
+    - https://git.door43.org/wendyc/es-419_mrk_level2wcntext_ulb
+    - https://git.door43.org/luismatias/es-419_jdg_text_ulb
+    - https://git.door43.org/norbeldine/es-419_jos_text_ulb
+    - https://git.door43.org/wendyc/es-419_jhn_level2_text_ulb
+    - https://git.door43.org/es419-12/es-419_act_text_ulb
+    - https://git.door43.org/talicea/es-419_1sa_text_ulb
+    - https://git.door43.org/wendyc/es-419_mat_level2w_text_ulb
+    - https://git.door43.org/luismatias/es-419_exo_text_ulb
+    - https://git.door43.org/wendyc/es-419_luk_level2wc_text_ulb
+    - https://git.door43.org/jeffreyfeliciano/es-419_gen_text_ulb
+
+- language:
+    code: ne
+    name: Nepali
+  resource:
+    code: udb
+  repos:
+    - https://git.door43.org/hblamtari/ne_1co_text_udb
+    - https://git.door43.org/hblamtari/ne_1jn_text_udb
+    - https://git.door43.org/hblamtari/ne_1pe_text_udb
+    - https://git.door43.org/hblamtari/ne_1th_text_udb
+    - https://git.door43.org/hblamtari/ne_1ti_text_udb
+    - https://git.door43.org/hblamtari/ne_2co_text_udb
+    - https://git.door43.org/hblamtari/ne_2jn_text_udb
+    - https://git.door43.org/hblamtari/ne_2pe_text_udb
+    - https://git.door43.org/hblamtari/ne_2th_text_udb
+    - https://git.door43.org/hblamtari/ne_2ti_text_udb
+    - https://git.door43.org/hblamtari/ne_3jn_text_udb
+    - https://git.door43.org/hblamtari/ne_act_text_udb
+    - https://git.door43.org/hblamtari/ne_col_text_udb
+    - https://git.door43.org/hblamtari/ne_eph_text_udb
+    - https://git.door43.org/hblamtari/ne_gal_text_udb
+    - https://git.door43.org/hblamtari/ne_heb_text_udb
+    - https://git.door43.org/hblamtari/ne_jas_text_udb
+    - https://git.door43.org/hblamtari/ne_jud_text_udb
+    - https://git.door43.org/hblamtari/ne_luk_text_udb
+    - https://git.door43.org/hblamtari/ne_phm_text_udb
+    - https://git.door43.org/hblamtari/ne_php_text_udb
+    - https://git.door43.org/hblamtari/ne_rom_text_udb
+    - https://git.door43.org/hblamtari/ne_tit_text_udb
+
+- language:
+    code: ru
+    name: Russian
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/elena.zastenchik/ru_1co_text_ulb
+    - https://git.door43.org/mxaln/ru_1jn_text_ulb
+    - https://git.door43.org/mxaln/ru_1pe_text_ulb
+    - https://git.door43.org/mxaln/ru_1th_text_ulb
+    - https://git.door43.org/mxaln/ru_1ti_text_ulb
+    - https://git.door43.org/mxaln/ru_2co_text_ulb
+    - https://git.door43.org/mxaln/ru_2pe_text_ulb
+    - https://git.door43.org/mxaln/ru_2th_text_ulb
+    - https://git.door43.org/mxaln/ru_2ti_text_ulb
+    - https://git.door43.org/mxaln/ru_act_text_ulb
+    - https://git.door43.org/mxaln/ru_col_text_ulb
+    - https://git.door43.org/mxaln/ru_eph_text_ulb
+    - https://git.door43.org/mxaln/ru_gal_text_ulb
+    - https://git.door43.org/mxaln/ru_heb_text_ulb
+    - https://git.door43.org/mxaln/ru_jhn_text_ulb
+    - https://git.door43.org/mxaln/ru_jud_text_ulb
+    - https://git.door43.org/mxaln/ru_php_text_ulb
+    - https://git.door43.org/mxaln/ru_rom_text_ulb
+    - https://git.door43.org/mxaln/ru_tit_text_ulb
+    - https://git.door43.org/ruschek1/ru_2jn_text_ulb
+    - https://git.door43.org/ruschek1/ru_3jn_text_ulb
+    - https://git.door43.org/ruschek1/ru_jas_text_ulb
+    - https://git.door43.org/serg.ignashin/ru_phm_text_ulb
+    - https://git.door43.org/wa_eurasia/ru_luk_text_ulb_l2
+    - https://git.door43.org/wa_eurasia/ru_mat_text_ulb_l2
+    - https://git.door43.org/wa_eurasia/ru_mrk_text_ulb_l2
+    - https://git.door43.org/wa_eurasia/ru_rev_text_ulb_l2
+
+- language:
+    code: zh
+    name: Chinese
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/ewang/zh_1pe_text_ulb
+    - https://git.door43.org/ewang/zh_1th_text_ulb
+    - https://git.door43.org/ewang/zh_1ti_text_ulb
+    - https://git.door43.org/ewang/zh_2co_text_ulb_l1
+    - https://git.door43.org/ewang/zh_2jn_text_ulb_l1
+    - https://git.door43.org/ewang/zh_2pe_text_ulb_l1
+    - https://git.door43.org/ewang/zh_2th_text_ulb_l1
+    - https://git.door43.org/ewang/zh_2ti_text_ulb_l1
+    - https://git.door43.org/ewang/zh_3jn_text_ulb_l1
+    - https://git.door43.org/ewang/zh_act_text_ulb_l1
+    - https://git.door43.org/ewang/zh_col_text_ulb_l1
+    - https://git.door43.org/ewang/zh_eph_text_ulb_l1
+    - https://git.door43.org/ewang/zh_gal_text_ulb_l1
+    - https://git.door43.org/ewang/zh_heb_text_ulb_l1
+    - https://git.door43.org/ewang/zh_jas_text_ulb_l1
+    - https://git.door43.org/ewang/zh_jhn_text_ulb_l1
+    - https://git.door43.org/ewang/zh_luk_text_ulb_l1
+    - https://git.door43.org/ewang/zh_mat_text_ulb_l1
+    - https://git.door43.org/ewang/zh_mrk_text_ulb
+    - https://git.door43.org/ewang/zh_php_text_ulb
+    - https://git.door43.org/ewang/zh_rev_text_ulb
+    - https://git.door43.org/ewang/zh_rom_text_ulb
+    - https://git.door43.org/ewang/zh_tit_text_ulb
+    - https://git.door43.org/ldjenkins22/zh_1co_text_ulb_l1
+    - https://git.door43.org/ldjenkins22/zh_1jn_text_ulb_l1
+    - https://git.door43.org/ldjenkins22/zh_1th_text_ulb_l1
+    - https://git.door43.org/ldjenkins22/zh_jud_text_ulb_l1
+
+- language:
+    code: sw
+    name: Swahili
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/danjuma_alfred_h/sw_1co_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_1jn_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_1pe_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_1th_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_1ti_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_2co_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_2jn_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_2pe_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_2th_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_2ti_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_3jn_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_act_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_col_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_eph_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_gal_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_heb_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_jas_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_jhn_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_jud_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_luk_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_mat_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_mrk_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_phm_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_php_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_rev_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_rom_text_ulb_l3
+    - https://git.door43.org/danjuma_alfred_h/sw_tit_text_ulb_l3
+
+- language:
+    code: ur
+    name: Urdu
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/upgit/ur_1co_text_ulb
+    - https://git.door43.org/upgit/ur_1jn_text_ulb
+    - https://git.door43.org/upgit/ur_1pe_text_ulb
+    - https://git.door43.org/upgit/ur_1th_text_ulb
+    - https://git.door43.org/upgit/ur_1ti_text_ulb
+    - https://git.door43.org/upgit/ur_2co_text_ulb
+    - https://git.door43.org/upgit/ur_2jn_text_ulb
+    - https://git.door43.org/upgit/ur_2pe_text_ulb
+    - https://git.door43.org/upgit/ur_2th_text_ulb
+    - https://git.door43.org/upgit/ur_2ti_text_ulb
+    - https://git.door43.org/upgit/ur_3jn_text_ulb
+    - https://git.door43.org/upgit/ur_act_text_ulb
+    - https://git.door43.org/upgit/ur_col_text_ulb
+    - https://git.door43.org/upgit/ur_eph_text_ulb
+    - https://git.door43.org/upgit/ur_gal_text_ulb
+    - https://git.door43.org/upgit/ur_heb_text_ulb
+    - https://git.door43.org/upgit/ur_jas_text_ulb
+    - https://git.door43.org/upgit/ur_jhn_text_ulb
+    - https://git.door43.org/upgit/ur_jud_text_ulb
+    - https://git.door43.org/upgit/ur_luk_text_ulb
+    - https://git.door43.org/upgit/ur_mat_text_ulb
+    - https://git.door43.org/upgit/ur_mrk_text_ulb
+    - https://git.door43.org/upgit/ur_phm_text_ulb
+    - https://git.door43.org/upgit/ur_php_text_ulb
+
+    - https://git.door43.org/upgit/ur_rev_text_ulb
+    - https://git.door43.org/upgit/ur_rom_text_ulb
+    - https://git.door43.org/upgit/ur_tit_text_ulb
+
+- language:
+    code: ur-Deva
+    name: Urdu (Devanagari script)
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/bcs-bible/urdu-ulb-nt.bcs
+
+- language:
+    code: vi
+    name: Vietnamese
+  resource:
+    code: ulb
+  repos:
+    - https://git.door43.org/vgm/vi_1ch_text_ulb
+    - https://git.door43.org/vgm/vi_1co_text_ulb
+    - https://git.door43.org/vgm/vi_1jn_text_ulb
+    - https://git.door43.org/vgm/vi_1pe_text_ulb
+    - https://git.door43.org/vgm/vi_1th_text_ulb
+    - https://git.door43.org/vgm/vi_1ti_text_ulb
+    - https://git.door43.org/vgm/vi_2ch_text_ulb
+    - https://git.door43.org/vgm/vi_2co_text_ulb
+    - https://git.door43.org/vgm/vi_2jn_text_ulb
+    - https://git.door43.org/vgm/vi_2pe_text_ulb
+    - https://git.door43.org/vgm/vi_2th_text_ulb
+    - https://git.door43.org/vgm/vi_2ti_text_ulb
+    - https://git.door43.org/vgm/vi_3jn_text_ulb
+    - https://git.door43.org/vgm/vi_act_text_ulb
+    - https://git.door43.org/vgm/vi_col_text_ulb
+    - https://git.door43.org/vgm/vi_eph_text_ulb
+    - https://git.door43.org/vgm/vi_gal_text_ulb
+    - https://git.door43.org/vgm/vi_gen_text_ulb
+    - https://git.door43.org/vgm/vi_heb_text_ulb
+    - https://git.door43.org/vgm/vi_jas_text_ulb
+    - https://git.door43.org/vgm/vi_jhn_text_ulb
+    - https://git.door43.org/vgm/vi_jud_text_ulb
+    - https://git.door43.org/vgm/vi_luk_text_ulb
+    - https://git.door43.org/vgm/vi_mat_text_ulb
+    - https://git.door43.org/vgm/vi_mrk_text_ulb
+    - https://git.door43.org/vgm/vi_phm_text_ulb
+    - https://git.door43.org/vgm/vi_php_text_ulb
+    - https://git.door43.org/vgm/vi_rev_text_ulb
+    - https://git.door43.org/vgm/vi_rom_text_ulb
+    - https://git.door43.org/vgm/vi_tit_text_ulb

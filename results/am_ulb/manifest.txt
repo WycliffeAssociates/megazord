@@ -1,0 +1,189 @@
+  -
+    title: '1ኛ ቆሮንቶስ '
+    versification: 'ufw'
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1ኛ ዬሐንስ '
+    versification: 'ufw'
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1ኛ ጴጥሮስ '
+    versification: 'ufw'
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 ተሰሎንቄ '
+    versification: 'ufw'
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 ጢሞቴዎስ '
+    versification: 'ufw'
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ቆሮንቶስ '
+    versification: 'ufw'
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ዮሐንስ '
+    versification: 'ufw'
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ጴጥሮስ '
+    versification: 'ufw'
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2ኛ ተሰሎንቄ '
+    versification: 'ufw'
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 ጢሞቴዎስ '
+    versification: 'ufw'
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '3ኛ ዮሐንስ '
+    versification: 'ufw'
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'የሐዋርያት ሥራ '
+    versification: 'ufw'
+    identifier: 'act'
+    sort: 44
+    path: './45-ACT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ቆላስይስ '
+    versification: 'ufw'
+    identifier: 'col'
+    sort: 51
+    path: './52-COL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ኤፌሶን '
+    versification: 'ufw'
+    identifier: 'eph'
+    sort: 49
+    path: './50-EPH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '??? '
+    versification: 'ufw'
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ገላቲያ '
+    versification: 'ufw'
+    identifier: 'gal'
+    sort: 48
+    path: './49-GAL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ዕብራዊያን '
+    versification: 'ufw'
+    identifier: 'heb'
+    sort: 58
+    path: './59-HEB.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ያዕቆብ '
+    versification: 'ufw'
+    identifier: 'jas'
+    sort: 59
+    path: './60-JAS.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Jeremiah '
+    versification: 'ufw'
+    identifier: 'jer'
+    sort: 24
+    path: './24-JER.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ይሁዳ '
+    versification: 'ufw'
+    identifier: 'jud'
+    sort: 65
+    path: './66-JUD.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ማርቆስ '
+    versification: 'ufw'
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '??? '
+    versification: 'ufw'
+    identifier: 'neh'
+    sort: 16
+    path: './16-NEH.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'ፊልሞና '
+    versification: 'ufw'
+    identifier: 'phm'
+    sort: 57
+    path: './58-PHM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ፊልጵስዩስ '
+    versification: 'ufw'
+    identifier: 'php'
+    sort: 50
+    path: './51-PHP.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'የዮሐንስ ራእይ '
+    versification: 'ufw'
+    identifier: 'rev'
+    sort: 66
+    path: './67-REV.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ሮሜ '
+    versification: 'ufw'
+    identifier: 'rom'
+    sort: 45
+    path: './46-ROM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'ቲቶ '
+    versification: 'ufw'
+    identifier: 'tit'
+    sort: 56
+    path: './57-TIT.usfm'
+    categories: [ 'bible-nt' ]

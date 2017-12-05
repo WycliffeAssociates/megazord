@@ -1,0 +1,84 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "act",
+    "name": "Acts"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "ulb",
+    "name": "Unlocked Literal Bible"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Jeffrey Perez"
+  ],
+  "finished_chunks": [
+    "11-01",
+    "11-04",
+    "11-07",
+    "11-15",
+    "11-17",
+    "11-19",
+    "11-22",
+    "11-25",
+    "11-27",
+    "11-29",
+    "12-01",
+    "12-03",
+    "12-05",
+    "12-07",
+    "12-09",
+    "12-11",
+    "12-13",
+    "12-16",
+    "12-18",
+    "12-20",
+    "12-22",
+    "12-24",
+    "13-01",
+    "13-04",
+    "13-06",
+    "13-09",
+    "13-11",
+    "13-13",
+    "13-16",
+    "13-19",
+    "13-21",
+    "13-23",
+    "13-26",
+    "13-28",
+    "13-30",
+    "13-32",
+    "13-35",
+    "13-38",
+    "13-40",
+    "13-42",
+    "13-44",
+    "13-46",
+    "13-48",
+    "13-50"
+  ]
+}

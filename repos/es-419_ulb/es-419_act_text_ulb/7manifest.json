@@ -1,0 +1,63 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "act",
+    "name": "Acts"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "ulb",
+    "name": "Unlocked Literal Bible"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Genesis Mercado"
+  ],
+  "finished_chunks": [
+    "07-01",
+    "07-04",
+    "07-06",
+    "07-09",
+    "07-11",
+    "07-14",
+    "07-17",
+    "07-20",
+    "07-22",
+    "07-26",
+    "07-29",
+    "07-31",
+    "07-33",
+    "07-35",
+    "07-38",
+    "07-41",
+    "07-43",
+    "07-44",
+    "07-47",
+    "07-51",
+    "07-54",
+    "07-57",
+    "07-59"
+  ]
+}

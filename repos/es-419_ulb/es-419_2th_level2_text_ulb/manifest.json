@@ -1,0 +1,66 @@
+{
+	"package_version": 7,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "110"
+	},
+	"target_language": {
+		"id": "es-419",
+		"name": "Español Latin America",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "2th",
+		"name": "2 Thessalonians"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "ulb",
+			"checking_level": "3",
+			"date_modified": 20161227,
+			"version": "8"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"Wendy Colon",
+		"Ruth  Esperanza Calo Castro",
+		"Laura Noemi Rosario Negron",
+		"TEST",
+		"Wendy"
+	],
+	"finished_chunks": [
+		"front-title",
+		"01-title",
+		"01-01",
+		"01-03",
+		"01-06",
+		"01-09",
+		"01-11",
+		"02-title",
+		"02-01",
+		"02-03",
+		"02-05",
+		"02-08",
+		"02-11",
+		"02-13",
+		"02-16",
+		"03-title",
+		"03-01",
+		"03-04",
+		"03-06",
+		"03-10",
+		"03-13",
+		"03-16"
+	]
+}

@@ -1,0 +1,57 @@
+{
+	"package_version": 6,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": ""
+	},
+	"target_language": {
+		"id": "es-419",
+		"name": "Español Latin America",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "mat",
+		"name": "Matthew"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "ulb",
+			"checking_level": 3,
+			"date_modified": 20160223,
+			"version": "4"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"Isabel Rodriguez"
+	],
+	"finished_chunks": [
+		"22-01",
+		"22-04",
+		"22-05",
+		"22-08",
+		"22-11",
+		"22-13",
+		"22-15",
+		"22-18",
+		"22-20",
+		"22-25",
+		"22-29",
+		"22-31",
+		"22-34",
+		"22-37",
+		"22-39",
+		"22-41",
+		"22-45"
+	]
+}

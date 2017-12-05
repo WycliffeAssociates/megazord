@@ -1,0 +1,50 @@
+{
+	"package_version": 6,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "55"
+	},
+	"target_language": {
+		"id": "ne",
+		"name": "नेपाली",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "phm",
+		"name": "Philemon"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "udb",
+		"name": "Unlocked Dynamic Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "udb",
+			"checking_level": 3,
+			"date_modified": 20160901,
+			"version": "6"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"HUM LAMTARI",
+		"Mani Chandra Rai"
+	],
+	"finished_chunks": [
+		"00-title",
+		"01-01",
+		"01-04",
+		"01-08",
+		"01-10",
+		"01-14",
+		"01-17",
+		"01-21",
+		"01-23"
+	]
+}

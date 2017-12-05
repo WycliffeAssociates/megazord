@@ -1,0 +1,54 @@
+{
+	"package_version": 6,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": ""
+	},
+	"target_language": {
+		"id": "es-419",
+		"name": "Español Latin America",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "heb",
+		"name": "Hebrews"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "ulb",
+			"checking_level": 3,
+			"date_modified": 20160223,
+			"version": "4"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"Eliezer Adorno"
+	],
+	"finished_chunks": [
+		"10-01",
+		"10-05",
+		"10-08",
+		"10-11",
+		"10-15",
+		"10-17",
+		"10-19",
+		"10-23",
+		"10-26",
+		"10-28",
+		"10-30",
+		"10-32",
+		"10-35",
+		"10-38"
+	]
+}

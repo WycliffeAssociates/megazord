@@ -1,0 +1,94 @@
+Converting: repos/ne_udb/ne_1co_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_1co_text_udb
+16 chapters converted
+
+Converting: repos/ne_udb/ne_1jn_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_1jn_text_udb
+5 chapters converted
+
+Converting: repos/ne_udb/ne_1pe_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_1pe_text_udb
+5 chapters converted
+
+Converting: repos/ne_udb/ne_1th_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_1th_text_udb
+5 chapters converted
+
+Converting: repos/ne_udb/ne_1ti_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_1ti_text_udb
+6 chapters converted
+
+Converting: repos/ne_udb/ne_2co_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_2co_text_udb
+13 chapters converted
+
+Converting: repos/ne_udb/ne_2jn_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_2jn_text_udb
+1 chapters converted
+
+Converting: repos/ne_udb/ne_2pe_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_2pe_text_udb
+3 chapters converted
+
+Converting: repos/ne_udb/ne_2th_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_2th_text_udb
+3 chapters converted
+
+Converting: repos/ne_udb/ne_2ti_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_2ti_text_udb
+4 chapters converted
+
+Converting: repos/ne_udb/ne_3jn_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_3jn_text_udb
+1 chapters converted
+
+Converting: repos/ne_udb/ne_act_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_act_text_udb
+28 chapters converted
+
+Converting: repos/ne_udb/ne_col_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_col_text_udb
+4 chapters converted
+
+Converting: repos/ne_udb/ne_eph_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_eph_text_udb
+6 chapters converted
+
+Converting: repos/ne_udb/ne_gal_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_gal_text_udb
+6 chapters converted
+
+Converting: repos/ne_udb/ne_heb_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_heb_text_udb
+13 chapters converted
+
+Converting: repos/ne_udb/ne_jas_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_jas_text_udb
+5 chapters converted
+
+Converting: repos/ne_udb/ne_jud_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_jud_text_udb
+1 chapters converted
+
+Converting: repos/ne_udb/ne_luk_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_luk_text_udb
+24 chapters converted
+
+Converting: repos/ne_udb/ne_phm_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_phm_text_udb
+1 chapters converted
+
+Converting: repos/ne_udb/ne_php_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_php_text_udb
+4 chapters converted
+
+Converting: repos/ne_udb/ne_rom_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_rom_text_udb
+16 chapters converted
+
+Converting: repos/ne_udb/ne_tit_text_udb
+--- ALERT: missing book title for repos/ne_udb/ne_tit_text_udb
+3 chapters converted
+
+
+Done.

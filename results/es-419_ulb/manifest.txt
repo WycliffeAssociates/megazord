@@ -1,0 +1,560 @@
+  -
+    title: '1 Corintios '
+    versification: 'ufw'
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'I Juan '
+    versification: 'ufw'
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Pedro '
+    versification: 'ufw'
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Samuel '
+    versification: 'ufw'
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Timoteo '
+    versification: 'ufw'
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Corintios '
+    versification: 'ufw'
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Juan '
+    versification: 'ufw'
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Pedro '
+    versification: 'ufw'
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Timoteo '
+    versification: 'ufw'
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Tercera de Juan '
+    versification: 'ufw'
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Corintios '
+    versification: 'ufw'
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'I Juan '
+    versification: 'ufw'
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Pedro '
+    versification: 'ufw'
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Samuel '
+    versification: 'ufw'
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Timoteo '
+    versification: 'ufw'
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Corintios '
+    versification: 'ufw'
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Juan '
+    versification: 'ufw'
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Pedro '
+    versification: 'ufw'
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Timoteo '
+    versification: 'ufw'
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Tercera de Juan '
+    versification: 'ufw'
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '??? '
+    versification: 'ufw'
+    identifier: 'act'
+    sort: 44
+    path: './45-ACT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Colosenses '
+    versification: 'ufw'
+    identifier: 'col'
+    sort: 51
+    path: './52-COL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Efesios '
+    versification: 'ufw'
+    identifier: 'eph'
+    sort: 49
+    path: './50-EPH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Ester '
+    versification: 'ufw'
+    identifier: 'est'
+    sort: 17
+    path: './17-EST.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Éxodo '
+    versification: 'ufw'
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Gálatas '
+    versification: 'ufw'
+    identifier: 'gal'
+    sort: 48
+    path: './49-GAL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Génesis '
+    versification: 'ufw'
+    identifier: 'gen'
+    sort: 1
+    path: './01-GEN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Hebreos '
+    versification: 'ufw'
+    identifier: 'heb'
+    sort: 58
+    path: './59-HEB.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Santiago '
+    versification: 'ufw'
+    identifier: 'jas'
+    sort: 59
+    path: './60-JAS.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Jueces '
+    versification: 'ufw'
+    identifier: 'jdg'
+    sort: 7
+    path: './07-JDG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Juan '
+    versification: 'ufw'
+    identifier: 'jhn'
+    sort: 43
+    path: './44-JHN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Josué '
+    versification: 'ufw'
+    identifier: 'jos'
+    sort: 6
+    path: './06-JOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Judas '
+    versification: 'ufw'
+    identifier: 'jud'
+    sort: 65
+    path: './66-JUD.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Lucas '
+    versification: 'ufw'
+    identifier: 'luk'
+    sort: 42
+    path: './43-LUK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Mateo '
+    versification: 'ufw'
+    identifier: 'mat'
+    sort: 40
+    path: './41-MAT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Marcos '
+    versification: 'ufw'
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Filemón '
+    versification: 'ufw'
+    identifier: 'phm'
+    sort: 57
+    path: './58-PHM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Filipenses '
+    versification: 'ufw'
+    identifier: 'php'
+    sort: 50
+    path: './51-PHP.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Apocalipsis '
+    versification: 'ufw'
+    identifier: 'rev'
+    sort: 66
+    path: './67-REV.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Romanos '
+    versification: 'ufw'
+    identifier: 'rom'
+    sort: 45
+    path: './46-ROM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Rut '
+    versification: 'ufw'
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Tito '
+    versification: 'ufw'
+    identifier: 'tit'
+    sort: 56
+    path: './57-TIT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Corintios '
+    versification: 'ufw'
+    identifier: '1co'
+    sort: 46
+    path: './47-1CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'I Juan '
+    versification: 'ufw'
+    identifier: '1jn'
+    sort: 62
+    path: './63-1JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Pedro '
+    versification: 'ufw'
+    identifier: '1pe'
+    sort: 60
+    path: './61-1PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Samuel '
+    versification: 'ufw'
+    identifier: '1sa'
+    sort: 9
+    path: './09-1SA.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: '1 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '1th'
+    sort: 52
+    path: './53-1TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '1 Timoteo '
+    versification: 'ufw'
+    identifier: '1ti'
+    sort: 54
+    path: './55-1TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Corintios '
+    versification: 'ufw'
+    identifier: '2co'
+    sort: 47
+    path: './48-2CO.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Juan '
+    versification: 'ufw'
+    identifier: '2jn'
+    sort: 63
+    path: './64-2JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Pedro '
+    versification: 'ufw'
+    identifier: '2pe'
+    sort: 61
+    path: './62-2PE.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Tesalonicenses '
+    versification: 'ufw'
+    identifier: '2th'
+    sort: 53
+    path: './54-2TH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '2 Timoteo '
+    versification: 'ufw'
+    identifier: '2ti'
+    sort: 55
+    path: './56-2TI.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Tercera de Juan '
+    versification: 'ufw'
+    identifier: '3jn'
+    sort: 64
+    path: './65-3JN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: '??? '
+    versification: 'ufw'
+    identifier: 'act'
+    sort: 44
+    path: './45-ACT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Colosenses '
+    versification: 'ufw'
+    identifier: 'col'
+    sort: 51
+    path: './52-COL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Efesios '
+    versification: 'ufw'
+    identifier: 'eph'
+    sort: 49
+    path: './50-EPH.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Ester '
+    versification: 'ufw'
+    identifier: 'est'
+    sort: 17
+    path: './17-EST.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Éxodo '
+    versification: 'ufw'
+    identifier: 'exo'
+    sort: 2
+    path: './02-EXO.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Gálatas '
+    versification: 'ufw'
+    identifier: 'gal'
+    sort: 48
+    path: './49-GAL.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Génesis '
+    versification: 'ufw'
+    identifier: 'gen'
+    sort: 1
+    path: './01-GEN.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Hebreos '
+    versification: 'ufw'
+    identifier: 'heb'
+    sort: 58
+    path: './59-HEB.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Santiago '
+    versification: 'ufw'
+    identifier: 'jas'
+    sort: 59
+    path: './60-JAS.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Jueces '
+    versification: 'ufw'
+    identifier: 'jdg'
+    sort: 7
+    path: './07-JDG.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Juan '
+    versification: 'ufw'
+    identifier: 'jhn'
+    sort: 43
+    path: './44-JHN.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Josué '
+    versification: 'ufw'
+    identifier: 'jos'
+    sort: 6
+    path: './06-JOS.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Judas '
+    versification: 'ufw'
+    identifier: 'jud'
+    sort: 65
+    path: './66-JUD.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Lucas '
+    versification: 'ufw'
+    identifier: 'luk'
+    sort: 42
+    path: './43-LUK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Mateo '
+    versification: 'ufw'
+    identifier: 'mat'
+    sort: 40
+    path: './41-MAT.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Marcos '
+    versification: 'ufw'
+    identifier: 'mrk'
+    sort: 41
+    path: './42-MRK.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Filemón '
+    versification: 'ufw'
+    identifier: 'phm'
+    sort: 57
+    path: './58-PHM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Filipenses '
+    versification: 'ufw'
+    identifier: 'php'
+    sort: 50
+    path: './51-PHP.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Apocalipsis '
+    versification: 'ufw'
+    identifier: 'rev'
+    sort: 66
+    path: './67-REV.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Romanos '
+    versification: 'ufw'
+    identifier: 'rom'
+    sort: 45
+    path: './46-ROM.usfm'
+    categories: [ 'bible-nt' ]
+  -
+    title: 'Rut '
+    versification: 'ufw'
+    identifier: 'rut'
+    sort: 8
+    path: './08-RUT.usfm'
+    categories: [ 'bible-ot' ]
+  -
+    title: 'Tito '
+    versification: 'ufw'
+    identifier: 'tit'
+    sort: 56
+    path: './57-TIT.usfm'
+    categories: [ 'bible-nt' ]

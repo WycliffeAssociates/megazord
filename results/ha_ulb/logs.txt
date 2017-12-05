@@ -1,0 +1,83 @@
+Converting: repos/ha_ulb/ha_1co_text_ulb
+16 chapters converted
+
+Converting: repos/ha_ulb/ha_1jn_text_ulb
+5 chapters converted
+
+Converting: repos/ha_ulb/ha_1pe_text_ulb
+5 chapters converted
+
+Converting: repos/ha_ulb/ha_1th_text_ulb
+5 chapters converted
+
+Converting: repos/ha_ulb/ha_1ti_text_ulb
+6 chapters converted
+
+Converting: repos/ha_ulb/ha_2co_text_ulb
+13 chapters converted
+
+Converting: repos/ha_ulb/ha_2jn_text_ulb
+1 chapters converted
+
+Converting: repos/ha_ulb/ha_2pe_text_ulb
+3 chapters converted
+
+Converting: repos/ha_ulb/ha_2th_text_ulb
+3 chapters converted
+
+Converting: repos/ha_ulb/ha_2ti_text_ulb
+4 chapters converted
+
+Converting: repos/ha_ulb/ha_3jn_text_ulb
+1 chapters converted
+
+Converting: repos/ha_ulb/ha_act_text_ulb
+28 chapters converted
+
+Converting: repos/ha_ulb/ha_col_text_ulb
+4 chapters converted
+
+Converting: repos/ha_ulb/ha_eph_text_ulb
+6 chapters converted
+
+Converting: repos/ha_ulb/ha_gal_text_ulb
+6 chapters converted
+
+Converting: repos/ha_ulb/ha_heb_text_ulb
+13 chapters converted
+
+Converting: repos/ha_ulb/ha_jas_text_ulb
+5 chapters converted
+
+Converting: repos/ha_ulb/ha_jhn_text_ulb
+21 chapters converted
+
+Converting: repos/ha_ulb/ha_jud_text_ulb
+1 chapters converted
+
+Converting: repos/ha_ulb/ha_luk_text_ulb
+24 chapters converted
+
+Converting: repos/ha_ulb/ha_mat_text_ulb
+28 chapters converted
+
+Converting: repos/ha_ulb/ha_mrk_text_ulb
+16 chapters converted
+
+Converting: repos/ha_ulb/ha_phm_text_ulb
+1 chapters converted
+
+Converting: repos/ha_ulb/ha_php_text_ulb
+4 chapters converted
+
+Converting: repos/ha_ulb/ha_rev_text_ulb
+22 chapters converted
+
+Converting: repos/ha_ulb/ha_rom_text_ulb
+16 chapters converted
+
+Converting: repos/ha_ulb/ha_tit_text_ulb
+3 chapters converted
+
+
+Done.

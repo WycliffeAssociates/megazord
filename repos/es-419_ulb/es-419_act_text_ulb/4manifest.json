@@ -1,0 +1,55 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "act",
+    "name": "Acts"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Milady Diaz Cabello"
+  ],
+  "finished_chunks": [
+    "04-01",
+    "04-05",
+    "04-08",
+    "04-11",
+    "04-13",
+    "04-15",
+    "04-19",
+    "04-21",
+    "04-23",
+    "04-26",
+    "04-27",
+    "04-29",
+    "04-32",
+    "04-34",
+    "04-36"
+  ]
+}

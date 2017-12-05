@@ -1,0 +1,84 @@
+Converting: repos/fr_ulb/fr_1co_text_ulb
+16 chapters converted
+
+Converting: repos/fr_ulb/fr_1jn_text_ulb
+5 chapters converted
+
+Converting: repos/fr_ulb/fr_1pe_text_ulb
+5 chapters converted
+
+Converting: repos/fr_ulb/fr_1th_text_ulb
+5 chapters converted
+
+Converting: repos/fr_ulb/fr_1ti_text_ulb
+6 chapters converted
+
+Converting: repos/fr_ulb/fr_2co_text_ulb
+13 chapters converted
+
+Converting: repos/fr_ulb/fr_2jn_text_ulb
+1 chapters converted
+
+Converting: repos/fr_ulb/fr_2pe_text_ulb
+3 chapters converted
+
+Converting: repos/fr_ulb/fr_2th_text_ulb
+3 chapters converted
+
+Converting: repos/fr_ulb/fr_2ti_text_ulb
+4 chapters converted
+
+Converting: repos/fr_ulb/fr_3jn_text_ulb
+1 chapters converted
+
+Converting: repos/fr_ulb/fr_act_text_ulb
+28 chapters converted
+
+Converting: repos/fr_ulb/fr_col_text_ulb
+4 chapters converted
+
+Converting: repos/fr_ulb/fr_eph_text_ulb
+6 chapters converted
+
+Converting: repos/fr_ulb/fr_gal_text_ulb
+6 chapters converted
+
+Converting: repos/fr_ulb/fr_heb_text_ulb
+13 chapters converted
+
+Converting: repos/fr_ulb/fr_jas_text_ulb
+5 chapters converted
+
+Converting: repos/fr_ulb/fr_jhn_text_ulb
+--- Info: removed duplicate verse marker: \v 1
+21 chapters converted
+
+Converting: repos/fr_ulb/fr_jud_text_ulb
+1 chapters converted
+
+Converting: repos/fr_ulb/fr_luk_text_ulb
+24 chapters converted
+
+Converting: repos/fr_ulb/fr_mat_text_ulb
+28 chapters converted
+
+Converting: repos/fr_ulb/fr_mrk_text_ulb
+16 chapters converted
+
+Converting: repos/fr_ulb/fr_phm_text_ulb
+1 chapters converted
+
+Converting: repos/fr_ulb/fr_php_text_ulb
+4 chapters converted
+
+Converting: repos/fr_ulb/fr_rev_text_ulb
+22 chapters converted
+
+Converting: repos/fr_ulb/fr_rom_text_ulb
+16 chapters converted
+
+Converting: repos/fr_ulb/fr_tit_text_ulb
+3 chapters converted
+
+
+Done.

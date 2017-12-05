@@ -1,0 +1,67 @@
+{
+	"package_version": 6,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": ""
+	},
+	"target_language": {
+		"id": "ne",
+		"name": "नेपाली",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "2th",
+		"name": "2 Thessalonians"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "udb",
+		"name": "Unlocked Dynamic Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "en",
+			"resource_id": "udb",
+			"checking_level": 3,
+			"date_modified": 20160223,
+			"version": "4"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"HUM LAMTARI",
+		"Sagun Chaudhary",
+		"Shyam Shrestha",
+		"Birendra Kariya",
+		"Paul Basnet",
+		"Ramesh Basnet",
+		"Nirajan Thapa",
+		"Yogendra Thapa",
+		"Leah Ciplo"
+	],
+	"finished_chunks": [
+		"00-title",
+		"01-01",
+		"01-03",
+		"01-06",
+		"01-09",
+		"01-11",
+		"02-01",
+		"02-03",
+		"02-05",
+		"02-08",
+		"02-11",
+		"02-13",
+		"02-16",
+		"03-01",
+		"03-04",
+		"03-06",
+		"03-10",
+		"03-13",
+		"03-16"
+	]
+}

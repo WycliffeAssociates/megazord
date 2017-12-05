@@ -1,0 +1,105 @@
+Converting: repos/es-419_ulb/es-419_1co_level2_text_ulb
+16 chapters converted
+
+Converting: repos/es-419_ulb/es-419_1jn_level2_text_ulb
+5 chapters converted
+
+Converting: repos/es-419_ulb/es-419_1pe_level2_text_ulb
+5 chapters converted
+
+Converting: repos/es-419_ulb/es-419_1sa_text_ulb
+31 chapters converted
+
+Converting: repos/es-419_ulb/es-419_1th_level2__text_ulb
+5 chapters converted
+
+Converting: repos/es-419_ulb/es-419_1ti_text_ulb
+6 chapters converted
+
+Converting: repos/es-419_ulb/es-419_2co_level2_text_ulb
+13 chapters converted
+
+Converting: repos/es-419_ulb/es-419_2jn_text_ulb
+1 chapters converted
+
+Converting: repos/es-419_ulb/es-419_2pe_level2_text_ulb
+3 chapters converted
+
+Converting: repos/es-419_ulb/es-419_2th_level2_text_ulb
+3 chapters converted
+
+Converting: repos/es-419_ulb/es-419_2ti_text_ulb
+4 chapters converted
+
+Converting: repos/es-419_ulb/es-419_3jn_level2wc_text_ulb
+1 chapters converted
+
+Converting: repos/es-419_ulb/es-419_act_text_ulb
+--- ALERT: missing book title for repos/es-419_ulb/es-419_act_text_ulb
+28 chapters converted
+
+Converting: repos/es-419_ulb/es-419_col_level2_text_ulb
+4 chapters converted
+
+Converting: repos/es-419_ulb/es-419_eph_level2_text_ulb
+6 chapters converted
+
+Converting: repos/es-419_ulb/es-419_est_text_ulb
+10 chapters converted
+
+Converting: repos/es-419_ulb/es-419_exo_text_ulb
+40 chapters converted
+
+Converting: repos/es-419_ulb/es-419_gal_level2_text_ulb
+6 chapters converted
+
+Converting: repos/es-419_ulb/es-419_gen_text_ulb
+50 chapters converted
+
+Converting: repos/es-419_ulb/es-419_heb_level2_text_ulb
+13 chapters converted
+
+Converting: repos/es-419_ulb/es-419_jas_level2wc_text_ulb
+5 chapters converted
+
+Converting: repos/es-419_ulb/es-419_jdg_text_ulb
+21 chapters converted
+
+Converting: repos/es-419_ulb/es-419_jhn_level2_text_ulb
+21 chapters converted
+
+Converting: repos/es-419_ulb/es-419_jos_text_ulb
+24 chapters converted
+
+Converting: repos/es-419_ulb/es-419_jud_level2wc_text_ulb
+1 chapters converted
+
+Converting: repos/es-419_ulb/es-419_luk_level2wc_text_ulb
+24 chapters converted
+
+Converting: repos/es-419_ulb/es-419_mat_level2w_text_ulb
+28 chapters converted
+
+Converting: repos/es-419_ulb/es-419_mrk_level2wcntext_ulb
+16 chapters converted
+
+Converting: repos/es-419_ulb/es-419_phm_text_ulb
+1 chapters converted
+
+Converting: repos/es-419_ulb/es-419_php_level2_text_ulb
+4 chapters converted
+
+Converting: repos/es-419_ulb/es-419_rev_level2_text_ulb
+22 chapters converted
+
+Converting: repos/es-419_ulb/es-419_rom_level2_text_ulb
+16 chapters converted
+
+Converting: repos/es-419_ulb/es-419_rut_text_ulb
+4 chapters converted
+
+Converting: repos/es-419_ulb/es-419_tit_level2wc_text_ulb
+3 chapters converted
+
+
+Done.

@@ -1,0 +1,48 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "1th",
+    "name": "1 Thessalonians"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Ruth  Esperanza Calo Castro"
+  ],
+  "finished_chunks": [
+    "02-01",
+    "02-03",
+    "02-05",
+    "02-07",
+    "02-10",
+    "02-13",
+    "02-14",
+    "02-17"
+  ]
+}

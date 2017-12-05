@@ -1,0 +1,95 @@
+{
+	"package_version": 7,
+	"format": "usfm",
+	"generator": {
+		"name": "ts-desktop",
+		"build": "110"
+	},
+	"target_language": {
+		"id": "ru",
+		"name": "Русский",
+		"direction": "ltr"
+	},
+	"project": {
+		"id": "1jn",
+		"name": "1 John"
+	},
+	"type": {
+		"id": "text",
+		"name": "Text"
+	},
+	"resource": {
+		"id": "ulb",
+		"name": "Unlocked Literal Bible"
+	},
+	"source_translations": [
+		{
+			"language_id": "ru",
+			"resource_id": "rsb",
+			"checking_level": "3",
+			"date_modified": 20160620,
+			"version": "1"
+		}
+	],
+	"parent_draft": {},
+	"translators": [
+		"k.ivanova",
+		"katya.savitskiy",
+		null,
+		"Dmitrii Druzhinin",
+		"Artur Musayelyan",
+		"Sergey Ignashin",
+		"Vladimir Shamrai",
+		"Ashot Muradyan",
+		"Mast28"
+	],
+	"finished_chunks": [
+		"front-title",
+		"01-title",
+		"01-01",
+		"01-03",
+		"01-05",
+		"01-08",
+		"02-title",
+		"02-01",
+		"02-04",
+		"02-07",
+		"02-09",
+		"02-12",
+		"02-15",
+		"02-18",
+		"02-20",
+		"02-22",
+		"02-24",
+		"02-27",
+		"03-title",
+		"03-01",
+		"03-04",
+		"03-07",
+		"03-09",
+		"03-11",
+		"03-13",
+		"03-16",
+		"03-19",
+		"03-23",
+		"04-title",
+		"04-01",
+		"04-04",
+		"04-07",
+		"04-09",
+		"04-11",
+		"04-15",
+		"04-17",
+		"04-19",
+		"05-title",
+		"05-01",
+		"05-04",
+		"05-06",
+		"05-09",
+		"05-11",
+		"05-13",
+		"05-16",
+		"05-18",
+		"05-20"
+	]
+}

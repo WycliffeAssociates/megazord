@@ -1,0 +1,51 @@
+{
+  "package_version": 6,
+  "format": "usfm",
+  "generator": {
+    "name": "ts-desktop",
+    "build": ""
+  },
+  "target_language": {
+    "id": "es-419",
+    "name": "Español Latin America",
+    "direction": "ltr"
+  },
+  "project": {
+    "id": "eph",
+    "name": "Ephesians"
+  },
+  "type": {
+    "id": "text",
+    "name": "Text"
+  },
+  "resource": {
+    "id": "reg",
+    "name": "Regular"
+  },
+  "source_translations": [
+    {
+      "language_id": "en",
+      "resource_id": "ulb",
+      "checking_level": 3,
+      "date_modified": 20160223,
+      "version": "4"
+    }
+  ],
+  "parent_draft": {},
+  "translators": [
+    "Luisa Arboleda"
+  ],
+  "finished_chunks": [
+    "06-01",
+    "06-04",
+    "06-05",
+    "06-09",
+    "06-10",
+    "06-12",
+    "06-14",
+    "06-17",
+    "06-19",
+    "06-21",
+    "06-23"
+  ]
+}
